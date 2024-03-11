@@ -1,1 +1,1 @@
-"# Breast_Cancer_Classification" 
+This project is about a breast cancer classification project using machine learning. It includes data preprocessing, model building, and evaluation scripts tailored for predicting whether breast masses are malignant or benign. The project aims to assist in early cancer detection by analyzing features extracted from digitized images of fine needle aspirates (FNAs) of breast masses.
